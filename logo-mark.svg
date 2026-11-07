@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" width="240" height="280" role="img" aria-label="DWEIK IP">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3D77A"/>
+      <stop offset="0.5" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#A67C1A"/>
+    </linearGradient>
+    <linearGradient id="n" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12294D"/>
+      <stop offset="1" stop-color="#050B16"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 5 L111 23 V66 C111 101 89 125 60 137 C31 125 9 101 9 66 V23 Z" fill="url(#n)" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M60 14 L102 29 V66 C102 94 84 114 60 125 C36 114 18 94 18 66 V29 Z" fill="none" stroke="url(#g)" stroke-width="1" opacity="0.55"/>
+  <path fill="url(#g)" fill-rule="evenodd" d="M37 38 H61 C82 38 95 53 95 72 C95 91 82 106 61 106 H37 Z M50 51 V93 H60 C74 93 82 85 82 72 C82 59 74 51 60 51 Z"/>
+  <rect x="44" y="70" width="26" height="4" rx="2" fill="url(#g)"/>
+  <circle cx="44" cy="72" r="3.5" fill="url(#g)"/>
+</svg>
